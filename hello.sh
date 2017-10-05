@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Hello Git world"
-Git is goooood
+echo "Git is goooood"
